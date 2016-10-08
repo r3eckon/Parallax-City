@@ -17,6 +17,8 @@ UP and DOWN arrows to increase and decrease the buffer size
 
 LEFT and RIGHT arrows to increase and decrease scroll speed.
 
+= and - to control zoom.
+
 G to generate new city.
 
 H to close help.
