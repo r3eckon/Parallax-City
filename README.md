@@ -1,6 +1,8 @@
 # Parallax-City
 Procedural city generation with parallax scrolling 
 
+![](http://i.imgur.com/kUiQMis.png)
+
 A procedural java program tied to libgdx for rendering.
 
 https://www.youtube.com/watch?v=kyph8hab9I8
